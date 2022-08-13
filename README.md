@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src = "/banner.svg" width=700px>
-</p>
+</p> -->
 
 <!--   
 Contact  | 
